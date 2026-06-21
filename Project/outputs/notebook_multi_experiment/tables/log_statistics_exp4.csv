@@ -1,0 +1,2 @@
+experiment,runs,number_of_cases,average_cases_per_run,number_of_events,average_events_per_run,number_of_activities,number_of_variants,average_case_duration_min,longest_case_duration_min,average_final_quality,minimum_final_quality
+4,20,153730,7686.5,1650906,82545.3,12,16,14.111399942550793,184.23354,75.72889087047922,0.0017299747

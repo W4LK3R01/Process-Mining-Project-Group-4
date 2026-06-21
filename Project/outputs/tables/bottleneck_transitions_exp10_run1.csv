@@ -1,0 +1,11 @@
+activity,next_activity,count,mean,median,max
+startProcessingRegion2,finishedProcessingRegion2,7455,0 days 00:03:43.186801341,0 days 00:03:43.082000,0 days 00:06:42.055100
+pickedUpRegion3,droppedOffRegion3,7498,0 days 00:00:19.385391811,0 days 00:00:20,0 days 00:00:37.500000
+pickedUpRegion1,droppedOffRegion2,7499,0 days 00:00:14.546272836,0 days 00:00:15,0 days 00:00:30
+assignedToVehicleRegion3,pickedUpRegion3,7501,0 days 00:00:09.172308598,0 days 00:00:04.746900,0 days 00:00:37.500000
+assignedToVehicleRegion1,pickedUpRegion1,7497,0 days 00:00:05.383265772,0 days 00:00:00.625400,0 days 00:00:30
+productCallsForTransportRegion3,assignedToVehicleRegion3,7502,0 days 00:00:00.857947613,0 days 00:00:00,0 days 00:01:00.190200
+productCallsForTransportRegion1,assignedToVehicleRegion1,7497,0 days 00:00:00.265913138,0 days 00:00:00,0 days 00:00:44.034900
+arrivalAtSource,productCallsForTransportRegion1,7497,0 days 00:00:00,0 days 00:00:00,0 days 00:00:00
+droppedOffRegion2,startProcessingRegion2,7500,0 days 00:00:00,0 days 00:00:00,0 days 00:00:00
+finishedProcessingRegion2,productCallsForTransportRegion3,7502,0 days 00:00:00,0 days 00:00:00,0 days 00:00:00

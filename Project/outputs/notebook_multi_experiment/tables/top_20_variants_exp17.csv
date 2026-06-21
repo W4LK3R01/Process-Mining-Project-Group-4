@@ -1,0 +1,15 @@
+variant,frequency
+arrivalAtSource -> productCallsForTransportRegion1 -> assignedToVehicleRegion1 -> pickedUpRegion1 -> droppedOffRegion2 -> startProcessingRegion2 -> finishedProcessingRegion2 -> productCallsForTransportRegion3 -> assignedToVehicleRegion3 -> pickedUpRegion3 -> droppedOffRegion3,150238
+arrivalAtSource -> productCallsForTransportRegion1 -> assignedToVehicleRegion1 -> pickedUpRegion1 -> droppedOffRegion2 -> startProcessingRegion2,1023
+finishedProcessingRegion2 -> productCallsForTransportRegion3 -> assignedToVehicleRegion3 -> pickedUpRegion3 -> droppedOffRegion3,1015
+droppedOffRegion3,94
+arrivalAtSource -> productCallsForTransportRegion1 -> assignedToVehicleRegion1 -> pickedUpRegion1,73
+arrivalAtSource -> productCallsForTransportRegion1 -> assignedToVehicleRegion1 -> pickedUpRegion1 -> droppedOffRegion2 -> startProcessingRegion2 -> finishedProcessingRegion2 -> productCallsForTransportRegion3 -> assignedToVehicleRegion3 -> pickedUpRegion3,71
+droppedOffRegion2 -> startProcessingRegion2 -> finishedProcessingRegion2 -> productCallsForTransportRegion3 -> assignedToVehicleRegion3 -> pickedUpRegion3 -> droppedOffRegion3,62
+arrivalAtSource -> productCallsForTransportRegion1 -> assignedToVehicleRegion1 -> pickedUpRegion1 -> droppedOffRegion2 -> startProcessingRegion2 -> finishedProcessingRegion2 -> productCallsForTransportRegion3 -> assignedToVehicleRegion3,51
+pickedUpRegion3 -> droppedOffRegion3,46
+pickedUpRegion1 -> droppedOffRegion2 -> startProcessingRegion2 -> finishedProcessingRegion2 -> productCallsForTransportRegion3 -> assignedToVehicleRegion3 -> pickedUpRegion3 -> droppedOffRegion3,32
+arrivalAtSource -> productCallsForTransportRegion1 -> assignedToVehicleRegion1,29
+assignedToVehicleRegion3 -> pickedUpRegion3 -> droppedOffRegion3,11
+arrivalAtSource -> productCallsForTransportRegion1 -> assignedToVehicleRegion1 -> pickedUpRegion1 -> droppedOffRegion2 -> startProcessingRegion2 -> finishedProcessingRegion2 -> productCallsForTransportRegion3,8
+assignedToVehicleRegion1 -> pickedUpRegion1 -> droppedOffRegion2 -> startProcessingRegion2 -> finishedProcessingRegion2 -> productCallsForTransportRegion3 -> assignedToVehicleRegion3 -> pickedUpRegion3 -> droppedOffRegion3,1

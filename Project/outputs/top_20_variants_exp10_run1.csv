@@ -1,0 +1,11 @@
+activity,count
+"('arrivalAtSource', 'productCallsForTransportRegion1', 'assignedToVehicleRegion1', 'pickedUpRegion1', 'droppedOffRegion2', 'startProcessingRegion2', 'finishedProcessingRegion2', 'productCallsForTransportRegion3', 'assignedToVehicleRegion3', 'pickedUpRegion3', 'droppedOffRegion3')",7441
+"('finishedProcessingRegion2', 'productCallsForTransportRegion3', 'assignedToVehicleRegion3', 'pickedUpRegion3', 'droppedOffRegion3')",47
+"('arrivalAtSource', 'productCallsForTransportRegion1', 'assignedToVehicleRegion1', 'pickedUpRegion1', 'droppedOffRegion2', 'startProcessingRegion2')",45
+"('pickedUpRegion1', 'droppedOffRegion2', 'startProcessingRegion2', 'finishedProcessingRegion2', 'productCallsForTransportRegion3', 'assignedToVehicleRegion3', 'pickedUpRegion3', 'droppedOffRegion3')",8
+"('arrivalAtSource', 'productCallsForTransportRegion1', 'assignedToVehicleRegion1', 'pickedUpRegion1')",6
+"('droppedOffRegion3',)",5
+"('arrivalAtSource', 'productCallsForTransportRegion1', 'assignedToVehicleRegion1', 'pickedUpRegion1', 'droppedOffRegion2', 'startProcessingRegion2', 'finishedProcessingRegion2', 'productCallsForTransportRegion3', 'assignedToVehicleRegion3', 'pickedUpRegion3')",4
+"('pickedUpRegion3', 'droppedOffRegion3')",1
+"('arrivalAtSource', 'productCallsForTransportRegion1', 'assignedToVehicleRegion1', 'pickedUpRegion1', 'droppedOffRegion2', 'startProcessingRegion2', 'finishedProcessingRegion2', 'productCallsForTransportRegion3', 'assignedToVehicleRegion3')",1
+"('droppedOffRegion2', 'startProcessingRegion2', 'finishedProcessingRegion2', 'productCallsForTransportRegion3', 'assignedToVehicleRegion3', 'pickedUpRegion3', 'droppedOffRegion3')",1

@@ -1,0 +1,13 @@
+activity,frequency
+arrivalAtSource,151493
+productCallsForTransportRegion1,151493
+pickedUpRegion1,149891
+assignedToVehicleRegion1,149835
+droppedOffRegion2,149821
+startProcessingRegion2,149821
+finishedProcessingRegion2,149742
+productCallsForTransportRegion3,149742
+droppedOffRegion3,136377
+pickedUpRegion3,136360
+assignedToVehicleRegion3,136359
+productDisposed,1689

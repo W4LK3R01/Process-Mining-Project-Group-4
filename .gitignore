@@ -1,0 +1,21 @@
+# Operating-system and notebook metadata
+.DS_Store
+__MACOSX/
+**/.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# Raw simulation archives are hundreds of MB each and exceed GitHub limits.
+Project/data/raw/LogFiles.zip
+Project/data/raw/LogFilesProductWarmupFilter.zip
+Project/data/raw/Output.zip
+Project/data/raw/OutputWarmupFilter.zip
+
+# Reproducible cleaned event logs (about 243 MB in total).
+Project/data/processed/
+
+# Large per-case intermediate tables; compact summaries remain tracked.
+Project/outputs/notebook_multi_experiment/tables/case_duration_statistics_exp*.csv
+
+# Temporary execution logs
+*.log

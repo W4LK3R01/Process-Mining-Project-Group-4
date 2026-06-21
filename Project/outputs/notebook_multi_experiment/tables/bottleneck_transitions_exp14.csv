@@ -1,0 +1,11 @@
+activity,next_activity,frequency,mean_duration_min,max_duration_min
+startProcessingRegion2,finishedProcessingRegion2,150453,3.7153823827596213,7.544101666666666
+pickedUpRegion3,droppedOffRegion3,151395,0.2765450747272587,0.625
+pickedUpRegion1,droppedOffRegion2,151438,0.19818589125582747,0.5
+assignedToVehicleRegion3,pickedUpRegion3,151430,0.069763369037399,0.625
+assignedToVehicleRegion1,pickedUpRegion1,151491,0.02271680203224394,0.5
+productCallsForTransportRegion3,assignedToVehicleRegion3,151448,0.013413781055763914,2.28423
+productCallsForTransportRegion1,assignedToVehicleRegion1,151492,0.002925852300231475,1.1611366666666667
+arrivalAtSource,productCallsForTransportRegion1,151493,0.0,0.0
+droppedOffRegion2,startProcessingRegion2,151492,0.0,0.0
+finishedProcessingRegion2,productCallsForTransportRegion3,151456,0.0,0.0
