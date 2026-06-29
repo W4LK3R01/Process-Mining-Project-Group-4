@@ -7,8 +7,8 @@ experiment,activity,next_activity,frequency,mean_duration_min,max_duration_min
 1,assignedToVehicleRegion1,pickedUpRegion1,151480,0.09874446266833904,0.5
 1,productCallsForTransportRegion1,assignedToVehicleRegion1,151490,0.0248618640614342,3.8296300000000003
 1,arrivalAtSource,productCallsForTransportRegion1,151493,0.0,0.0
-1,droppedOffRegion2,startProcessingRegion2,151480,0.0,0.0
 1,finishedProcessingRegion2,productCallsForTransportRegion3,151465,0.0,0.0
+1,droppedOffRegion2,startProcessingRegion2,151480,0.0,0.0
 2,startProcessingRegion2,finishedProcessingRegion2,150446,3.715275948225056,7.544101666666666
 2,productCallsForTransportRegion1,productDisposed,4,2.83792,2.83792
 2,pickedUpRegion3,droppedOffRegion3,151400,0.25589140243284897,0.625
@@ -28,8 +28,8 @@ experiment,activity,next_activity,frequency,mean_duration_min,max_duration_min
 3,assignedToVehicleRegion1,pickedUpRegion1,151479,0.057155112028730054,0.5
 3,productCallsForTransportRegion1,assignedToVehicleRegion1,151491,0.021295638200729196,2.6669683333333336
 3,arrivalAtSource,productCallsForTransportRegion1,151493,0.0,0.0
-3,droppedOffRegion2,startProcessingRegion2,151482,0.0,0.0
 3,finishedProcessingRegion2,productCallsForTransportRegion3,151463,0.0,0.0
+3,droppedOffRegion2,startProcessingRegion2,151482,0.0,0.0
 4,productCallsForTransportRegion3,assignedToVehicleRegion3,145306,10.356796324216939,178.88425333333333
 4,startProcessingRegion2,finishedProcessingRegion2,150450,3.715316994793398,7.544101666666666
 4,productCallsForTransportRegion1,productDisposed,7,3.0406285714285715,4.25688
@@ -104,8 +104,8 @@ experiment,activity,next_activity,frequency,mean_duration_min,max_duration_min
 10,productCallsForTransportRegion3,assignedToVehicleRegion3,151448,0.013499948431144685,1.9846983333333335
 10,productCallsForTransportRegion1,assignedToVehicleRegion1,151493,0.004160488669443473,0.8910766666666666
 10,arrivalAtSource,productCallsForTransportRegion1,151493,0.0,0.0
-10,droppedOffRegion2,startProcessingRegion2,151494,0.0,0.0
 10,finishedProcessingRegion2,productCallsForTransportRegion3,151454,0.0,0.0
+10,droppedOffRegion2,startProcessingRegion2,151494,0.0,0.0
 11,startProcessingRegion2,finishedProcessingRegion2,150466,3.715341393404489,7.544101666666666
 11,pickedUpRegion3,droppedOffRegion3,151415,0.2565963863443736,0.625
 11,pickedUpRegion1,droppedOffRegion2,151441,0.18065643826088487,0.5
@@ -114,8 +114,8 @@ experiment,activity,next_activity,frequency,mean_duration_min,max_duration_min
 11,productCallsForTransportRegion3,assignedToVehicleRegion3,151464,0.014925674472701985,1.7294666666666667
 11,productCallsForTransportRegion1,assignedToVehicleRegion1,151493,0.0025391523810781138,0.98664
 11,arrivalAtSource,productCallsForTransportRegion1,151493,0.0,0.0
-11,droppedOffRegion2,startProcessingRegion2,151500,0.0,0.0
 11,finishedProcessingRegion2,productCallsForTransportRegion3,151468,0.0,0.0
+11,droppedOffRegion2,startProcessingRegion2,151500,0.0,0.0
 12,startProcessingRegion2,finishedProcessingRegion2,150458,3.7153573105783675,7.544101666666666
 12,pickedUpRegion3,droppedOffRegion3,151385,0.27722079119463616,0.625
 12,pickedUpRegion1,droppedOffRegion2,151435,0.19849440353947237,0.5
@@ -124,8 +124,8 @@ experiment,activity,next_activity,frequency,mean_duration_min,max_duration_min
 12,productCallsForTransportRegion3,assignedToVehicleRegion3,151456,0.010303836185646877,1.474695
 12,productCallsForTransportRegion1,assignedToVehicleRegion1,151492,0.0026093215703359473,0.8556066666666666
 12,arrivalAtSource,productCallsForTransportRegion1,151493,0.0,0.0
-12,droppedOffRegion2,startProcessingRegion2,151490,0.0,0.0
 12,finishedProcessingRegion2,productCallsForTransportRegion3,151461,0.0,0.0
+12,droppedOffRegion2,startProcessingRegion2,151490,0.0,0.0
 13,startProcessingRegion2,finishedProcessingRegion2,150446,3.7153304976979555,7.544101666666666
 13,pickedUpRegion3,droppedOffRegion3,151403,0.25397421801417414,0.625
 13,pickedUpRegion1,droppedOffRegion2,151439,0.1801835227385284,0.5
@@ -134,8 +134,8 @@ experiment,activity,next_activity,frequency,mean_duration_min,max_duration_min
 13,productCallsForTransportRegion3,assignedToVehicleRegion3,151445,0.02338366028371136,2.8618516666666665
 13,productCallsForTransportRegion1,assignedToVehicleRegion1,151491,0.0030776572205609577,1.2285716666666666
 13,arrivalAtSource,productCallsForTransportRegion1,151493,0.0,0.0
-13,droppedOffRegion2,startProcessingRegion2,151490,0.0,0.0
 13,finishedProcessingRegion2,productCallsForTransportRegion3,151455,0.0,0.0
+13,droppedOffRegion2,startProcessingRegion2,151490,0.0,0.0
 14,startProcessingRegion2,finishedProcessingRegion2,150453,3.7153823827596213,7.544101666666666
 14,pickedUpRegion3,droppedOffRegion3,151395,0.2765450747272587,0.625
 14,pickedUpRegion1,droppedOffRegion2,151438,0.19818589125582747,0.5
@@ -144,8 +144,8 @@ experiment,activity,next_activity,frequency,mean_duration_min,max_duration_min
 14,productCallsForTransportRegion3,assignedToVehicleRegion3,151448,0.013413781055763914,2.28423
 14,productCallsForTransportRegion1,assignedToVehicleRegion1,151492,0.002925852300231475,1.1611366666666667
 14,arrivalAtSource,productCallsForTransportRegion1,151493,0.0,0.0
-14,droppedOffRegion2,startProcessingRegion2,151492,0.0,0.0
 14,finishedProcessingRegion2,productCallsForTransportRegion3,151456,0.0,0.0
+14,droppedOffRegion2,startProcessingRegion2,151492,0.0,0.0
 15,startProcessingRegion2,finishedProcessingRegion2,150452,3.7153994359773654,7.544101666666666
 15,pickedUpRegion3,droppedOffRegion3,151411,0.25405995666321024,0.625
 15,pickedUpRegion1,droppedOffRegion2,151440,0.17985588351822504,0.5
@@ -154,8 +154,8 @@ experiment,activity,next_activity,frequency,mean_duration_min,max_duration_min
 15,productCallsForTransportRegion3,assignedToVehicleRegion3,151447,0.02306319712506686,11.76694
 15,productCallsForTransportRegion1,assignedToVehicleRegion1,151493,0.003114659434209281,2.4511433333333335
 15,arrivalAtSource,productCallsForTransportRegion1,151493,0.0,0.0
-15,droppedOffRegion2,startProcessingRegion2,151487,0.0,0.0
 15,finishedProcessingRegion2,productCallsForTransportRegion3,151461,0.0,0.0
+15,droppedOffRegion2,startProcessingRegion2,151487,0.0,0.0
 16,startProcessingRegion2,finishedProcessingRegion2,150454,3.7153439878634,7.544101666666666
 16,pickedUpRegion3,droppedOffRegion3,151388,0.27648400930060507,0.625
 16,pickedUpRegion1,droppedOffRegion2,151440,0.1982962174238422,0.5
@@ -164,8 +164,8 @@ experiment,activity,next_activity,frequency,mean_duration_min,max_duration_min
 16,productCallsForTransportRegion3,assignedToVehicleRegion3,151465,0.013883406111422879,5.388046666666667
 16,productCallsForTransportRegion1,assignedToVehicleRegion1,151493,0.0027788052473271593,2.15079
 16,arrivalAtSource,productCallsForTransportRegion1,151493,0.0,0.0
-16,droppedOffRegion2,startProcessingRegion2,151488,0.0,0.0
 16,finishedProcessingRegion2,productCallsForTransportRegion3,151475,0.0,0.0
+16,droppedOffRegion2,startProcessingRegion2,151488,0.0,0.0
 17,startProcessingRegion2,finishedProcessingRegion2,150463,3.7154036643781745,7.544101666666666
 17,pickedUpRegion3,droppedOffRegion3,151405,0.32183079626388383,0.625
 17,pickedUpRegion1,droppedOffRegion2,151424,0.2396233699193435,0.5
@@ -174,8 +174,8 @@ experiment,activity,next_activity,frequency,mean_duration_min,max_duration_min
 17,productCallsForTransportRegion3,assignedToVehicleRegion3,151470,0.018762402951079424,2.538031666666667
 17,productCallsForTransportRegion1,assignedToVehicleRegion1,151493,0.004738337205899503,1.4073316666666666
 17,arrivalAtSource,productCallsForTransportRegion1,151493,0.0,0.0
-17,droppedOffRegion2,startProcessingRegion2,151486,0.0,0.0
 17,finishedProcessingRegion2,productCallsForTransportRegion3,151478,0.0,0.0
+17,droppedOffRegion2,startProcessingRegion2,151486,0.0,0.0
 18,startProcessingRegion2,finishedProcessingRegion2,150449,3.715307884332897,7.544101666666666
 18,pickedUpRegion3,droppedOffRegion3,151390,0.32163378712816776,0.625
 18,pickedUpRegion1,droppedOffRegion2,151411,0.24038502816836294,0.5
@@ -184,8 +184,8 @@ experiment,activity,next_activity,frequency,mean_duration_min,max_duration_min
 18,productCallsForTransportRegion3,assignedToVehicleRegion3,151455,0.01981737191465012,8.185983333333333
 18,productCallsForTransportRegion1,assignedToVehicleRegion1,151492,0.005079825216293049,1.867605
 18,arrivalAtSource,productCallsForTransportRegion1,151493,0.0,0.0
-18,droppedOffRegion2,startProcessingRegion2,151472,0.0,0.0
 18,finishedProcessingRegion2,productCallsForTransportRegion3,151459,0.0,0.0
+18,droppedOffRegion2,startProcessingRegion2,151472,0.0,0.0
 19,startProcessingRegion2,finishedProcessingRegion2,150427,3.715267613970009,7.544101666666666
 19,productCallsForTransportRegion1,productDisposed,6,2.9325172222222227,4.25688
 19,productCallsForTransportRegion3,assignedToVehicleRegion3,151243,0.7611962007497868,52.99698333333333

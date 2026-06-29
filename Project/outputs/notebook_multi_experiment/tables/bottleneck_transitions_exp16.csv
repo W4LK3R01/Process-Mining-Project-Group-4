@@ -7,5 +7,5 @@ assignedToVehicleRegion1,pickedUpRegion1,151484,0.02228627009013053,0.5
 productCallsForTransportRegion3,assignedToVehicleRegion3,151465,0.013883406111422879,5.388046666666667
 productCallsForTransportRegion1,assignedToVehicleRegion1,151493,0.0027788052473271593,2.15079
 arrivalAtSource,productCallsForTransportRegion1,151493,0.0,0.0
-droppedOffRegion2,startProcessingRegion2,151488,0.0,0.0
 finishedProcessingRegion2,productCallsForTransportRegion3,151475,0.0,0.0
+droppedOffRegion2,startProcessingRegion2,151488,0.0,0.0

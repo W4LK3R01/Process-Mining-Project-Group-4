@@ -1,0 +1,7 @@
+metric,raw,warmup_filtered
+Time range start,2020-01-01 00:00:00,2020-01-01 02:00:00.085800
+Time range end,2020-01-01 10:59:59.630300,2020-01-01 10:59:59.630300
+Number of events,100520,82507
+Number of cases,9163,7559
+Average case duration (min),4.52,4.49
+Longest case duration (min),8.28,8.28
