@@ -4,6 +4,15 @@ This repository contains the Jupyter Notebook, compact result tables, and
 figures for the multi-experiment smart-pallet logistics process-mining study.
 The notebook analyzes 27 experiment configurations with 20 runs each.
 
+## Dependencies
+
+Install the required Python packages (pandas, matplotlib) from the repository
+root with:
+
+```
+pip install -r requirements.txt
+```
+
 ## Dataset Setup
 
 The large raw simulation archives are intentionally excluded from Git because
